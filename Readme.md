@@ -3,6 +3,9 @@
 
 ![Blitzcrank](https://pbs.twimg.com/media/EjnQvhVVkAAyTam.jpg)
 
+![Licencia](https://licensebuttons.net/l/by-nc/3.0/88x31.png)
+[Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ¿Que es blitzcrank y que puede ofrecer frente a otros bots existentes?
 
 ## Funciones
