@@ -1,7 +1,9 @@
 # Blitzcrank C#
 ## El mejor bot para league of legends
 
-縌ue es blitzcrank y que puede ofrecer frente a otros bots existentes?
+![Blitzcrank](https://pbs.twimg.com/media/EjnQvhVVkAAyTam.jpg)
+
+驴Que es blitzcrank y que puede ofrecer frente a otros bots existentes?
 
 ## Funciones
 
@@ -9,15 +11,16 @@
 - Seguimiento y Gestion de Cuentas
 - Seguridad garantizada
 - API interna configurable
-- F醕ilmente configurable
+- F谩cilmente configurable
 - Compatibilidad al 100%
 - Estabilidad
+- Soporta Garena
 
-> 趌tima actualizaci髇 para la versi髇 de league of legends 11.4 o +
+> 脷ltima actualizaci贸n para la versi贸n de league of legends 11.4 o +
 
 ## Proyecto(s)
 
-| Nombre | Versi髇 |
+| Nombre | Versi贸n |
 | ------ | ------ |
 | BlitcrankAccountCreator | 1.0.0.0 |
 | BlitcrankServer | 1.0.0.0 |
@@ -32,7 +35,7 @@ Principal Desarrollador y Autor - [Zorbuk](https://github.com/zorbuk)
 No disponible por ahora
 ```
 
-## Instalaci髇
+## Instalaci贸n
 [Microsoft Visual C++ 2015 Redistributable Update 3 RC](https://www.microsoft.com/es-es/download/details.aspx?id=52685)
 ```sh
 No disponible por ahora
