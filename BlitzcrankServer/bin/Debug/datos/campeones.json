@@ -1,0 +1,82 @@
+[
+	{
+		"Nombre": "ashe",
+		"Rol": "adc",
+		"OrdenHabilidades": "wqre"
+	},
+	{
+		"Nombre": "senna",
+		"Rol": "adc",
+		"OrdenHabilidades": "qwre"
+	},
+	{
+		"Nombre": "ezreal",
+		"Rol": "adc",
+		"OrdenHabilidades": "qwre"
+	},
+	{
+		"Nombre": "lux",
+		"Rol": "ap",
+		"OrdenHabilidades": "eqrw"
+	},
+	{
+		"Nombre": "caitlyn",
+		"Rol": "adc",
+		"OrdenHabilidades": "qwer"
+	},
+	{
+		"Nombre": "missfortune",
+		"Rol": "adc",
+		"OrdenHabilidades": "eqrw"
+	},
+	{
+		"Nombre": "samira",
+		"Rol": "adc",
+		"OrdenHabilidades": "qwre"
+	},
+	{
+		"Nombre": "sivir",
+		"Rol": "ad",
+		"OrdenHabilidades": "qwre"
+	},
+	{
+		"Nombre": "tristana",
+		"Rol": "adc",
+		"OrdenHabilidades": "eqwr"
+	},
+	{
+		"Nombre": "vayne",
+		"Rol": "adc",
+		"OrdenHabilidades": "qwre"
+	},
+	{
+		"Nombre": "kogmaw",
+		"Rol": "adc",
+		"OrdenHabilidades": "wqre"
+	},
+	{
+		"Nombre": "twitch",
+		"Rol": "adc",
+		"OrdenHabilidades": "qerw"
+	},
+	{
+		"Nombre": "kaisa",
+		"Rol": "adc",
+		"OrdenHabilidades": "qwer"
+	},
+	{
+		"Nombre": "xayah",
+		"Rol": "adc",
+		"OrdenHabilidades": "qewr"
+	},
+	{
+		"Nombre": "kalista",
+		"Rol": "adc",
+		"OrdenHabilidades": "qewr"
+	},
+	{
+		"Nombre": "aphelios",
+		"Rol": "adc",
+		"OrdenHabilidades": "qwe"
+	}
+]

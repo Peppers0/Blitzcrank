@@ -1,0 +1,10 @@
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\bin\Debug\BlitzcrankServer.exe.config
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\bin\Debug\BlitzcrankServer.exe
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\bin\Debug\BlitzcrankServer.pdb
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\obj\Debug\BlitzcrankServer.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\obj\Debug\BlitzcrankServer.exe
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\obj\Debug\BlitzcrankServer.pdb
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\obj\Debug\BlitzcrankServer.csprojAssemblyReference.cache
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankServer\obj\Debug\BlitzcrankServer.csproj.CopyComplete

@@ -1,0 +1,9 @@
+{
+"Ip":"127.0.0.1",
+"Puerto":450,
+"LimiteBots":20,
+"NivelMaximo":30,
+"JugarJuntos":"true",
+"TodosMedio":"true",
+"ModoDeJuego":"bots_principiante",
+}
