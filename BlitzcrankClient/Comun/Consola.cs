@@ -35,6 +35,15 @@ namespace BlitzcrankClient.Comun
             Console.ForegroundColor = Color;
             Console.WriteLine($"{Mensaje}");
         }
+
+        public static void Debug(String Mensaje, ConsoleColor Color = ConsoleColor.Black)
+        {
+            if (Program.Configuracion.Debug)
+            {
+                Console.ForegroundColor = Color;
+                Console.WriteLine($"{Mensaje}");
+            }
+        }
         public static void NuevaLinea()
         {
             Console.WriteLine();

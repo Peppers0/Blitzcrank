@@ -25,6 +25,16 @@ namespace BlitzcrankClient.Red.Mensajes
                     Consola.Escribir($"\tCuenta otorgada por el servidor: {mensajeRecibido.Split('|')[1]}", ConsoleColor.Green);
                     Cuenta.Nombre = mensajeRecibido.Split('|')[1];
                     Cuenta.Contraseña = mensajeRecibido.Split('|')[2];
+
+                    /* Una vez la cuenta es otorgada, intentar conectar: */
+                    AccionesCuenta.Conectar();
+
+                    /* Una vez conectamos, obtenemos los datos de la cuenta, es decir, apodo, esencias azules, nivel... */
+
+
+                    /* Ahora la cuenta ya puede estar marcada como 'conectada' */
+                    InformacionCuenta.Conectada = true;
+
                     lectorStream.BaseStream.Flush();
                     break;
                 case string sinCuentas when sinCuentas.Contains("sinCuentasDisponibles()"):

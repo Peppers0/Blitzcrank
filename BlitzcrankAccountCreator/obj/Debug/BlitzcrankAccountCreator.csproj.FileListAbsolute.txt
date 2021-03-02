@@ -4,3 +4,4 @@ D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankAccountCreator\bin\Debug\Blitzcra
 D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankAccountCreator\obj\Debug\BlitzcrankAccountCreator.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankAccountCreator\obj\Debug\BlitzcrankAccountCreator.exe
 D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankAccountCreator\obj\Debug\BlitzcrankAccountCreator.pdb
+D:\VisualStudio\Proyectos\Blitzcrank\BlitzcrankAccountCreator\obj\Debug\BlitzcrankAccountCreator.csprojAssemblyReference.cache
